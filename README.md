@@ -19,7 +19,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 ##
 
 <div><br>
-  <a href="https://www.linkedin.com/in/eduardo-gdias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardo-gdias/" target="_blank"><button><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></button></a> 
 </div>
  
 ##
