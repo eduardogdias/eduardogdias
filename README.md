@@ -23,5 +23,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 ##
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <img align="left" alt="GitHub Stats" height="auto" style="max-width: 45%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br">
   <img align="left" alt="GitHub Stats" height="auto" style="max-width: 45%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9">
 </div>
