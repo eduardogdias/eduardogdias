@@ -1,6 +1,6 @@
 💻Eduardo Dias
 
-Me chamo Eduardo Guilherme Dias e sou um programador Full Stack. Concluí o ensino técnico no CEAP, com o curso técnico em informática.
+Me chamo Eduardo Guilherme Dias e sou um programador Full Stack. Sou formado como Técnico em Informática pelo CEAP.
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 <div style="display: inline_block"><br>
