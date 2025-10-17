@@ -1,7 +1,9 @@
 # 💻Eduardo Dias
 
 Desenvolvedor Full Stack com foco em Back-End, cursando Análise e Desenvolvimento de Sistemas na FIAP e formado como Técnico em Informática pelo CEAP.
+
 Tenho experiência com Python, Java (Spring Boot), C#, .NET, TypeScript, HTML, CSS, JS, React e React Native, Bancos Relacionais e NoSQL, Docker, Linux, Azure e Desenvolvimento de APIs REST. 
+
 Sempre busco escrever códigos limpos, seguros, escaláveis e aplicando boas práticas de desenvolvimento.
 
 <div style="display: inline_block"><br>
@@ -31,12 +33,12 @@ Sempre busco escrever códigos limpos, seguros, escaláveis e aplicando boas pr�
 
 <div style="flex: 1; display: flex; align-items: center; justify-content: space-around;">
 <img 
-        src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br"
         alt="Eduardo Dias GitHub stats" 
         style="height: 180px;"
 >
 <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
         alt="Eduardo Dias Top Langs" 
         style="height: 180px;"
 >
