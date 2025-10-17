@@ -1,14 +1,14 @@
 # 💻Eduardo Dias
 
-Me chamo Eduardo Guilherme Dias e sou um programador Full Stack. Sou formado como Técnico em Informática pelo CEAP.
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
+Desenvolvedor Full Stack com foco em Back-End, cursando Análise e Desenvolvimento de Sistemas na FIAP e formado como Técnico em Informática pelo CEAP.
+Tenho experiência com Python, Java (Spring Boot), C#, .NET, TypeScript, HTML, CSS, JS, React e React Native, Bancos Relacionais e NoSQL, Docker, Linux, Azure e Desenvolvimento de APIs REST. 
+Sempre busco escrever códigos limpos, seguros, escaláveis e aplicando boas práticas de desenvolvimento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">
-  <img align="center" alt="Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"> 
@@ -18,7 +18,6 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
   <img align="center" alt="Azure" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">      
-  
 </div>
 
 ##
@@ -32,12 +31,12 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 <div style="flex: 1; display: flex; align-items: center; justify-content: space-around;">
 <img 
-        src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"
         alt="Eduardo Dias GitHub stats" 
         style="height: 180px;"
 >
 <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=transparent&layout=compact&custom_title=Tecnologias&langs_count=9"
         alt="Eduardo Dias Top Langs" 
         style="height: 180px;"
 >
