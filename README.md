@@ -30,7 +30,7 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 
 ##
 
-<div style="display: flex; align-items: center; justify-content: space-around; gap: 40px;">
+<div style="flex: 1; display: flex; align-items: center; justify-content: space-around;">
 <img 
         src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
         alt="Eduardo Dias GitHub stats" 
