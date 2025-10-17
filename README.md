@@ -21,9 +21,9 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
   
 </div>
 
-###
+##
 
-<div>
+<div><br>
   <a href="https://www.linkedin.com/in/eduardo-gdias/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a> 
 </div>
@@ -34,12 +34,12 @@ Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na FIAP.
 <img 
         src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
         alt="Eduardo Dias GitHub stats" 
-        style="height: 200px;"
+        style="height: 180px;"
 >
 <img 
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"
         alt="Eduardo Dias Top Langs" 
-        style="height: 200px;"
+        style="height: 180px;"
 >
 </div>
 
