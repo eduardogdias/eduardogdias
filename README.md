@@ -4,7 +4,7 @@ Desenvolvedor Full Stack com foco em Back-End, cursando Análise e Desenvolvimen
 
 Tenho experiência com Python, Java (Spring Boot), C#, .NET, HTML, CSS, JS, TypeScript, React e React Native, Bancos Relacionais e NoSQL, Docker, Linux, Azure e Desenvolvimento de APIs REST. 
 
-Sempre busco escrever códigos limpos, seguros, escaláveis e aplicando boas práticas de desenvolvimento.
+Busco sempre escrever códigos limpos, seguros, escaláveis e aplicando boas práticas de desenvolvimento.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
