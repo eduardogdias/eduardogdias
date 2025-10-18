@@ -31,7 +31,7 @@ Busco sempre escrever códigos limpos, seguros, escaláveis e aplicando boas pr�
 
 ##
 
-<div style="flex: 1; display: flex; align-items: center; justify-content: space-around;" align="center">
+<div style="flex: 1; display: flex; align-items: center; justify-content: space-around;" align="center" justify-content="space-around">
 <img 
         src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
         alt="Eduardo Dias GitHub stats" 
