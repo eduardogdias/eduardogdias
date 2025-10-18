@@ -35,16 +35,16 @@ Busco sempre escrever códigos limpos, seguros, escaláveis e aplicando boas pr�
   <tr>
     <td align="center" style="padding: 10px;">
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br&hide_border=true"
         alt="Eduardo Dias GitHub stats" 
-        height="200px"
+        style="height: 200px;"
       >
     </td>
     <td align="center" style="padding: 10px;">
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
         alt="Eduardo Dias Top Langs" 
-        height="200px"
+        style="height: 200px;"
       >
     </td>
   </tr>
