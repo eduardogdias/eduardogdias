@@ -31,7 +31,7 @@ Busco sempre escrever códigos limpos, seguros, escaláveis e aplicando boas pr�
 
 ##
 
-<div align="center">
+<!-- <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
     style="height: 200px;"
@@ -40,4 +40,4 @@ Busco sempre escrever códigos limpos, seguros, escaláveis e aplicando boas pr�
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardogdias&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9"
     style="height: 200px;"
   >
-</div>
+</div> -->
