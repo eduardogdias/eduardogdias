@@ -30,7 +30,7 @@ Busco sempre escrever códigos limpos, seguros, escaláveis e aplicando boas pr�
 </div>
 
 ##
-
+<!--
  <div align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=eduardogdias&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br"
